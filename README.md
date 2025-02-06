@@ -21,14 +21,13 @@ This project uses AI-driven techniques to detect fraud and phishing attempts in 
 - Security & Alerts: AWS SNS, SES
 
 ## ⚡ Setup & Installation
-https://github.com/AibinuolaDamilola/AI-Fraud-Phishing-Detection-SafePay.git
-cd AI-Fraud-Phishing-Detection-SafePay
+
 
 ## 2️⃣ Install dependencies:
-pip install -r requirements.txt
+
 
 ## 3️⃣ Run the project:
-python src/phishing_detection.py
+
 
 ## 📖 Documentation
 - How the AI Model Works
