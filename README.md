@@ -21,12 +21,13 @@ This project uses AI-driven techniques to detect fraud and phishing attempts in 
 - Security & Alerts: AWS SNS, SES
 
 ## ⚡ Setup & Installation
+# 1️⃣ Clone the repository:
 
 
-## 2️⃣ Install dependencies:
+# 2️⃣ Install dependencies:
 
 
-## 3️⃣ Run the project:
+# 3️⃣ Run the project:
 
 
 ## 📖 Documentation
