@@ -9,7 +9,8 @@ This project uses AI-driven techniques to detect fraud and phishing attempts in 
 - AWS-Powered Automation: Fully cloud-based solution using AWS Lambda, SageMaker, and more.
 - Real-Time Alerts: Sends instant notifications when fraud or phishing is detected.
 
-## 📌 Architecture Diagram
+## 📌 Architecture Diagram 
+![SafePay AI Fraud & Phishing Detection](https://github.com/AibinuolaDamilola/AI-Fraud-Phishing-Detection-SafePay/blob/main/AI%20architecture.drawio.png?raw=true)
 
 
 ## 🛠️ Technologies & Tools Used
