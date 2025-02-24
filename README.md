@@ -31,7 +31,7 @@ This project uses AI-driven techniques to detect fraud and phishing attempts in 
 
 
 ## 📖 Documentation
-- How the AI Model Works
+- <a href="https://https://medium.com/@evolvewithdami/building-ai-powered-fraud-and-phishing-detection-solution-for-safepay-fintech-pt1-259541470c82">How the AI Model Works</a> 
 - AWS Services Used/main
 - Dataset & Training Process
 
